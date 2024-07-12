@@ -126,7 +126,7 @@ iframe{
     width: 100px;
 }
 #support{
-    background-image: url(../assets/handshake.jpg);
+    background-image: linear-gradient(180deg, #070211 0%, rgba(13, 4, 30, 0) 100%),url(../assets/handshake.jpg);
     height: 450px;
     width: 1230px;
     background-size: cover;
